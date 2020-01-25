@@ -1,2 +1,0 @@
-# BasicReactTimeApp
-Created with CodeSandbox
